@@ -11,3 +11,4 @@ over time as we run the workshop.
 The project involves planning the refurbishment and installation
 of a new kitchen.
 
+Files in this directory have been edited by Alice R Carter during the git for collaboration workshop
